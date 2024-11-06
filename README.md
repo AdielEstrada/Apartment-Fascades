@@ -1,5 +1,5 @@
 # Fascades
-After doing the floor plan, we were allowed to experiment with the design of the exterior, thinking as if it were a home. 
+After doing the floor plan, we were allowed to experiment with the design of the exterior, thinking as if it were a home. It's important to note that the measurements are in meters. 
 
 > ## Software Used
 >> AutoCAD
